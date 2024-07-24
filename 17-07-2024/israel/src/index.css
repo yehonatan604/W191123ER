@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 34px;
+}
+
+p {
+  font-size: 22px;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
