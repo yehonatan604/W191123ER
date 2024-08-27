@@ -29,16 +29,18 @@ https://github.com/yehonatan604/W191123ER/tree/main/25-08-2024
 
 # BCard API Documentation:
 
-###cards: 
+### cards: 
 https://documenter.getpostman.com/view/25008645/2s9YXcd5BE
 
-###users: 
+### users: 
 https://documenter.getpostman.com/view/25008645/2s9YXcd5BL
 
 # Regex
 
 ## passwordRegex:
+``` bash
 ### /((?=.*[0-9]{1})(?=.*[A-Z]{1})(?=.*[a-z]{1})(?=.*[!@#$%^&*-]{1}).{8,20})/;
+```
 
 ## phoneRegex:
 ### /0[0-9]{1,2}\-?\s?[0-9]{3}\s?[0-9]{4}/;
