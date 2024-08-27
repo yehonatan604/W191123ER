@@ -34,25 +34,25 @@ https://documenter.getpostman.com/view/25008645/2s9YXcd5BE
 
 ### users: 
 https://documenter.getpostman.com/view/25008645/2s9YXcd5BL
-
+#
 # Regex
 
-## passwordRegex:
+### passwordRegex:
 ``` bash
 ### /((?=.*[0-9]{1})(?=.*[A-Z]{1})(?=.*[a-z]{1})(?=.*[!@#$%^&*-]{1}).{8,20})/;
 ```
 
-## phoneRegex:
+### phoneRegex:
 ``` bash
 ### /0[0-9]{1,2}\-?\s?[0-9]{3}\s?[0-9]{4}/;
 ```
 
-## webRegex:
+### webRegex:
 ``` bash
 ### /(http?:\/\/(?:www\.|(?!www))[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|www\.[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9]+\.[^\s]{2,}|www\.[a-zA-Z0-9]+\.[^\s]{2,})/
 ```
 
-## emailRegex: 
+### emailRegex: 
 ``` bash
 ### /^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$/;
 ```
