@@ -26,6 +26,10 @@ https://github.com/yehonatan604/W191123ER/tree/main/21-08-2024
 
 ### Lesson 9 - 25/08/2024 - Forms handling, react-hook-form & JOI:
 https://github.com/yehonatan604/W191123ER/tree/main/25-08-2024
+
+### Lesson 10 - 28/08/2024 - HOCS:
+https://github.com/yehonatan604/W191123ER/tree/main/28-08-2024
+
 #
 # BCard API Documentation:
 
