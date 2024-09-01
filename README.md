@@ -30,6 +30,9 @@ https://github.com/yehonatan604/W191123ER/tree/main/25-08-2024
 ### Lesson 10 - 28/08/2024 - HOCS:
 https://github.com/yehonatan604/W191123ER/tree/main/28-08-2024
 
+### Lesson 10 - 01/09/2024 - Redux & Global State Management:
+https://github.com/yehonatan604/W191123ER/tree/main/01-09-2024
+
 #
 # BCard API Documentation:
 
