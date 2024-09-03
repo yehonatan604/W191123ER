@@ -3,7 +3,7 @@
 ### Lesson 1 - 17/07/2024 - Hello React:
 https://github.com/yehonatan604/W191123ER/tree/main/17-07-2024
 
-### Lesson 2 - 17/07/2024 - Components & props:
+### Lesson 2 - 21/07/2024 - Components & props:
 https://github.com/yehonatan604/W191123ER/tree/main/21-07-2024
 
 ### Lesson 3 - 24/07/2024 - Conditional rendering & arrays mapping:
