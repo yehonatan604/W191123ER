@@ -33,8 +33,11 @@ https://github.com/yehonatan604/W191123ER/tree/main/28-08-2024
 ### Lesson 11 - 01/09/2024 - Redux & Global State Management:
 https://github.com/yehonatan604/W191123ER/tree/main/01-09-2024
 
-### Lesson 12 - 04/09/2024 - Redux & Global State Management:
+### Lesson 12 - 04/09/2024 - Redux, RouteGuard:
 https://github.com/yehonatan604/W191123ER/tree/main/04-09-2024
+
+### Lesson 13 - 08/09/2024 - Query Params, search:
+https://github.com/yehonatan604/W191123ER/tree/main/08-09-2024
 
 #
 # BCard API Documentation:
