@@ -2,67 +2,67 @@
 
 ### Lesson 1 - 17/07/2024 - Hello React:
 
-https://github.com/yehonatan604/W191123ER/tree/main/17-07-2024
+https://github.com/yehonatan604/W191123ER/tree/main/React/17-07-2024
 
 ### Lesson 2 - 21/07/2024 - Components & props:
 
-https://github.com/yehonatan604/W191123ER/tree/main/21-07-2024
+https://github.com/yehonatan604/W191123ER/tree/main/React/21-07-2024
 
 ### Lesson 3 - 24/07/2024 - Conditional rendering & arrays mapping:
 
-https://github.com/yehonatan604/W191123ER/tree/main/24-07-2024
+https://github.com/yehonatan604/W191123ER/tree/main/React/24-07-2024
 
 ### Lesson 4 - 07/08/2024 - Flowbite, tailwind CSS & react-icons:
 
-https://github.com/yehonatan604/W191123ER/tree/main/07-08-2024
+https://github.com/yehonatan604/W191123ER/tree/main/React/07-08-2024
 
 ### Lesson 5 - 11/08/2024 - Hooks & State Management:
 
-https://github.com/yehonatan604/W191123ER/tree/main/11-08-2024
+https://github.com/yehonatan604/W191123ER/tree/main/React/11-08-2024
 
 ### Lesson 6 - 14/08/2024 - Component LifeCycle & Side Effects:
 
-https://github.com/yehonatan604/W191123ER/tree/main/14-08-2024
+https://github.com/yehonatan604/W191123ER/tree/main/React/14-08-2024
 
 ### Lesson 7 - 18/08/2024 - Axios & react-toastify:
 
-https://github.com/yehonatan604/W191123ER/tree/main/18-08-2024
+https://github.com/yehonatan604/W191123ER/tree/main/React/18-08-2024
 
 ### Lesson 8 - 21/08/2024 - react-router-dom:
 
-https://github.com/yehonatan604/W191123ER/tree/main/21-08-2024
+https://github.com/yehonatan604/W191123ER/tree/main/React/21-08-2024
 
 ### Lesson 9 - 25/08/2024 - Forms handling, react-hook-form & JOI:
 
-https://github.com/yehonatan604/W191123ER/tree/main/25-08-2024
+https://github.com/yehonatan604/W191123ER/tree/main/React/25-08-2024
 
 ### Lesson 10 - 28/08/2024 - HOCS:
 
-https://github.com/yehonatan604/W191123ER/tree/main/28-08-2024
+https://github.com/yehonatan604/W191123ER/tree/main/React/28-08-2024
 
 ### Lesson 11 - 01/09/2024 - Redux & Global State Management:
 
-https://github.com/yehonatan604/W191123ER/tree/main/01-09-2024
+https://github.com/yehonatan604/W191123ER/tree/main/React/01-09-2024
 
 ### Lesson 12 - 04/09/2024 - Redux, RouteGuard:
 
-https://github.com/yehonatan604/W191123ER/tree/main/04-09-2024
+https://github.com/yehonatan604/W191123ER/tree/main/React/04-09-2024
 
 ### Lesson 13 - 08/09/2024 - Query Params, search:
 
-https://github.com/yehonatan604/W191123ER/tree/main/08-09-2024
+https://github.com/yehonatan604/W191123ER/tree/main/React/08-09-2024
 
 ### Lesson 14 - 11/09/2024 - Likes & Favorites Page:
 
-https://github.com/yehonatan604/W191123ER/tree/main/11-09-2024
+https://github.com/yehonatan604/W191123ER/tree/main/React/11-09-2024
 
 ### Lesson 15 - 15/09/2024 - Create Card & MyCards:
 
-https://github.com/yehonatan604/W191123ER/tree/main/15-09-2024
+https://github.com/yehonatan604/W191123ER/tree/main/React/15-09-2024
 
 ### Lesson 16 - 25/09/2024 - Refs & Custom Hooks:
 
-https://github.com/yehonatan604/W191123ER/tree/main/25-09-2024
+https://github.com/yehonatan604/W191123ER/tree/main/React/25-09-2024
 
 ### Project time 17 - 09/10/2024 - Lazy Loading:
 
