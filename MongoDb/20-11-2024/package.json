@@ -1,0 +1,16 @@
+{
+  "name": "20-11-2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Yehonatan Moravia",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "mongoose": "^8.8.2"
+  }
+}
