@@ -1,17 +1,17 @@
 {
-  "name": "01-12-2024",
+  "name": "routing",
   "version": "1.0.0",
+  "description": "",
   "main": "server.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ."
+    "start": "node .",
+    "dev": "nodemon ."
   },
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Yehonatan Moravia",
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.21.1",
-    "nodemon": "^3.1.7"
+    "express": "^4.21.1"
   }
 }
