@@ -1,0 +1,18 @@
+[
+    {
+        "username": "John Doe",
+        "email": "john@email",
+        "password": "password"
+    },
+    {
+        "username": "Jane Melony",
+        "email": "jane@email",
+        "password": "password"
+    },
+    {
+        "username": "Jim Berry",
+        "email": "jim@email",
+        "password": "password",
+        "authLevel": 2
+    }
+]
